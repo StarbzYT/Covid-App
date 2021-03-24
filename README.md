@@ -1,3 +1,9 @@
+# **COVID APP**
+
+Track Covid-19 cases, deaths, and recovered 
+
+## _To-do-list_
+
 1. [x] Find a website that displays the total number of deaths, and cases in the world.
 
 2. [x] Copy the URL and make a Python file
